@@ -1,5 +1,5 @@
 👋 Hi,I’m @Prasad Gurav & intereste in Computer science and learing new skills
-  🌱 I’m currently learning JsProgramming Full Stack Web Development 
+  🌱 I’m currently learning JS Programming Full Stack Web Development 
   
 
 <!---
